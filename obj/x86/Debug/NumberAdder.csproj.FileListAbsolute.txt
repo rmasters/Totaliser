@@ -1,0 +1,9 @@
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\bin\Debug\NumberAdder.exe
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\bin\Debug\NumberAdder.pdb
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\obj\x86\Debug\NumberAdder.exe
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\obj\x86\Debug\NumberAdder.pdb
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\bin\Debug\NumberAdder.exe.manifest
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\bin\Debug\NumberAdder.application
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\obj\x86\Debug\NumberAdder.exe.manifest
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\NumberAdder\NumberAdder\obj\x86\Debug\NumberAdder.application

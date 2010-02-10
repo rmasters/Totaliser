@@ -22,9 +22,9 @@ namespace NumberAdder
                 {
                     break;
                 }
-                else if (input == "C")
+                else if (input.ToUpper() == "C")
                 {
-                    Console.WriteLine("Total reset.");
+                    Console.WriteLine("Total reset.\n");
                     total = 0;
                     continue;
                 }
@@ -43,7 +43,7 @@ namespace NumberAdder
 
                     total += value;
 
-                    Console.WriteLine("Total: {0}", Convert.ToString(total));
+                    Console.WriteLine("Total: {0}\n", Convert.ToString(total));
                 }
             }
 
